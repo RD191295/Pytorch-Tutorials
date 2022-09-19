@@ -1,4 +1,4 @@
-# Deep Learning with PyTorch Turoials [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
+# Deep Learning with PyTorch Tutorials [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Atcold/pytorch-Deep-Learning/master)
 
 
 # Pytorch
